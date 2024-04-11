@@ -3,5 +3,5 @@
 
 xtensor, xtl,  xsimd
 
-![[video]()
+![video](mppi_stage_ros.mp4)
 
